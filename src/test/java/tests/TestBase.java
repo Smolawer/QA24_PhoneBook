@@ -15,7 +15,7 @@ public class TestBase  {
 
    @AfterSuite
     public void teraDown(){
-        //app.stop();
+        app.stop();
 
 
     }
